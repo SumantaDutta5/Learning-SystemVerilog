@@ -66,9 +66,9 @@ module top;    //the top module
     c2_h = new(mbox_top);
     
     c1_h.display();
-    c2_h.display();
-    
     c1_h.run_c1();
+    
+    c2_h.display();
     c2_h.run_c2();
     
   end
