@@ -1,6 +1,3 @@
-// Code your testbench here
-// or browse Examples
-
 class trans;        //Creating a transaction class
   reg [7:0] data;
   reg [3:0] addr;
